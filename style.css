@@ -1,0 +1,53 @@
+
+body {
+    background: #d837d8;
+    color: #8755e4;
+    font-weight: 700;
+    padding: 3rem;
+    font-family: sans-serif;
+}
+
+#app {
+    /* display: flex; */
+    background-color: rgb(79, 236, 236);
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    min-height: 30rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    flex-direction: column;
+}
+
+input{
+    height: 30px;
+    width: 90%;
+    border-radius: 8px;
+    background-color: #f3f3aa;
+    outline: none;
+    border-color: #b64436;
+    color: #b64436;
+    font-size: 18px;
+}
+
+#todo-submit {
+    height: 2.2rem;
+    font-family: verdana;
+    font-size: 1rem;
+    padding: 10px 12px ;
+    background-color: #b64436;
+    color: #f3f3aa;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 2px;
+    text-transform: capitalize;
+    outline: none;
+    border: none;
+}
+
+#todo-output {
+    text-align: left;
+    margin-left: 2rem;
+}
