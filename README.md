@@ -23,3 +23,6 @@ Buatlah sebuah halaman To-Do List seperti gambar di atas. Untuk desain dapat dis
 - Fungsi yang dipasang di input saat ditekan enter di field input: `fnClickHandler`
 - **Tidak perlu validasi jika input kosong** (input kosong jika disubmit akan menambahkan satu \<li\> kosong)
 - CSS dapat ditaruh di dalam html dengan tag \<style\> atau CSS external. Jangan menggunakan library tambahan.
+
+
+[![DeepScan grade](https://deepscan.io/api/teams/18268/projects/21571/branches/624611/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=18268&pid=21571&bid=624611)
